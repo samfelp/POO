@@ -1,0 +1,14 @@
+C:\Users\2023102060011\OneDrive\ADS\POO\empresaGurudev\Gurudev\bin\Debug\Gurudev.exe.config
+C:\Users\2023102060011\OneDrive\ADS\POO\empresaGurudev\Gurudev\bin\Debug\Gurudev.exe
+C:\Users\2023102060011\OneDrive\ADS\POO\empresaGurudev\Gurudev\bin\Debug\Gurudev.pdb
+C:\Users\2023102060011\OneDrive\ADS\POO\empresaGurudev\Gurudev\obj\Debug\Gurudev.csproj.AssemblyReference.cache
+C:\Users\2023102060011\OneDrive\ADS\POO\empresaGurudev\Gurudev\obj\Debug\Gurudev.csproj.CoreCompileInputs.cache
+C:\Users\2023102060011\OneDrive\ADS\POO\empresaGurudev\Gurudev\obj\Debug\Gurudev.exe
+C:\Users\2023102060011\OneDrive\ADS\POO\empresaGurudev\Gurudev\obj\Debug\Gurudev.pdb
+C:\Users\campi\OneDrive\ADS\POO\empresaGurudev\Gurudev\bin\Debug\Gurudev.exe.config
+C:\Users\campi\OneDrive\ADS\POO\empresaGurudev\Gurudev\bin\Debug\Gurudev.exe
+C:\Users\campi\OneDrive\ADS\POO\empresaGurudev\Gurudev\bin\Debug\Gurudev.pdb
+C:\Users\campi\OneDrive\ADS\POO\empresaGurudev\Gurudev\obj\Debug\Gurudev.csproj.AssemblyReference.cache
+C:\Users\campi\OneDrive\ADS\POO\empresaGurudev\Gurudev\obj\Debug\Gurudev.csproj.CoreCompileInputs.cache
+C:\Users\campi\OneDrive\ADS\POO\empresaGurudev\Gurudev\obj\Debug\Gurudev.exe
+C:\Users\campi\OneDrive\ADS\POO\empresaGurudev\Gurudev\obj\Debug\Gurudev.pdb
